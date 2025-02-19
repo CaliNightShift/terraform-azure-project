@@ -10,5 +10,5 @@ default = "East US"
 variable "storage_account_name" {
 description = "Name of the Azure Storage Account"
 type = string
-default = "CNS_GIT_PROJ_SA"
+default = "cnsgitterraprojsa"
 }
